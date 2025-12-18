@@ -150,10 +150,10 @@ print(me.current_focus())
 expertise = {
     "Computer Vision": ["Object Detection", "Image Classification", "Segmentation"],
     "Machine Learning": ["Supervised Learning", "Ensemble Methods", "Model Optimization"],
-    "Deep Learning": ["CNNs", "RNNs", "Transfer Learning", "Neural Networks"],
+    "Deep Learning": ["CNNs", "RNNs", "Transformers", "Transfer Learning", "Neural Networks"],
     "Data Science": ["EDA", "Feature Engineering", "Statistical Analysis"],
-    "NLP": ["Text Processing", "Sentiment Analysis", "LLMs"],
-    "Tools": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"]
+    "NLP": ["Text Processing", "Sentiment Analysis", "LLMs", "Transformers"],
+    "Tools": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "LangChain"]
 }
 ```
 
