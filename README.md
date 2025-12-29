@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey there, I'm Muhammad Furqan!
+#  Hey there, I'm Muhammad Furqan!
 
-### 🤖 AI Engineer | Data Scientist | Machine Learning Specialist
+###  AI Engineer | Data Scientist | Machine Learning Specialist
 
 <p align="center">
   <a href="https://www.linkedin.com/in/furqan-iftikhar1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -36,7 +36,7 @@ class DataScientist:
     
     def current_focus(self):
         return {
-            "learning": ["Large Language Models", "Advanced CV", "MLOps"],
+            "learning": ["Agentic Ai", "Advanced CV", "MLOps"],
             "building": ["AI-powered Solutions", "Predictive Models"],
             "exploring": ["Generative AI", "Production ML Systems"]
         }
